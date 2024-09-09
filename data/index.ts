@@ -76,7 +76,7 @@ export const projects = [
     des: "A Pokémon Pokédex project is an app to view and manage Pokémon info like name, type, and abilities.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/scss.svg", "/ts.svg", "/rtk.svg", "/firebase.svg"],
-    link: "/https://mohit-pokedex.netlify.app/",
+    link: "/mohit-pokedex.netlify.app/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "A Car Detail project is an app to view and manage car info like make, model, and specs.",
     img: "/p2.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/api.svg"],
-    link: "/https://car-detail-1t9p.vercel.app/",
+    link: "/car-detail-1t9p.vercel.app/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "An AI article summarizer is a tool that identifies key points and main ideas, helping users quickly grasp the content without reading the full text.",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ra.svg", "/rtk.svg"],
-    link: "/https://mohit-ai-summarizer.netlify.app/",
+    link: "/mohit-ai-summarizer.netlify.app/",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/https://mohit-animated-website.netlify.app/",
+    link: "/mohit-animated-website.netlify.app/",
   },
 ];
 
